@@ -9,9 +9,9 @@
 ## Option B
 
 ##### `my-input`
-**Required:** false
-**Default:** Hello World
-**Description:** A test input for our test action.
+- **Required:** false
+- **Default:** Hello World
+- **Description:** A test input for our test action.
 
 ## Option C
 
